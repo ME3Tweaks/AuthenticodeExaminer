@@ -5,13 +5,10 @@
     <Authors>Kevin Jones</Authors>
     <PackageTags>authenticode;codesign</PackageTags>
     <PackageProjectUrl>https://github.com/vcsjones/AuthenticodeExaminer</PackageProjectUrl>
-    <PackageVersion>0.3.0</PackageVersion>
-    <PublishRepositoryUrl>true</PublishRepositoryUrl>
-    <EmbedUntrackedSources>true</EmbedUntrackedSources>
+    <PackageVersion>0.3.1</PackageVersion>
     <AllowedOutputExtensionsInPackageBuildOutputFolder>$(AllowedOutputExtensionsInPackageBuildOutputFolder);.pdb</AllowedOutputExtensionsInPackageBuildOutputFolder>
     <RuntimeIdentifiers>win-x64</RuntimeIdentifiers>
     <Description>A Windows library for verifying and inspecting Authenticode signed files.</Description>
-    <GenerateDocumentationFile>true</GenerateDocumentationFile>
     <Nullable>enable</Nullable>
   </PropertyGroup>
   <ItemGroup>

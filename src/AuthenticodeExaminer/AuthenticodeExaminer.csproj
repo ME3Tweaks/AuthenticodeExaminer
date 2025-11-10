@@ -12,8 +12,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
   <ItemGroup>
-	  <PackageReference Include="System.Security.Cryptography.Pkcs" Version="9.0.3" />
-	  <PackageReference Include="System.Security.Cryptography.Xml" Version="9.0.3" />
+	  <PackageReference Include="System.Security.Cryptography.Pkcs" Version="9.0.6" />
+	  <PackageReference Include="System.Security.Cryptography.Xml" Version="9.0.6" />
 	  <PackageReference Include="System.Memory" Version="4.6.3" />
   </ItemGroup>
 </Project>
